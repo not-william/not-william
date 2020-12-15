@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my personal photography sharing website. Soon, it will be available to use for everyone, for free.
+
 <!--
 **not-william/not-william** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
