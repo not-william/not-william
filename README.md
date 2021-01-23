@@ -9,7 +9,7 @@ Machine Learning
 
 Writing
 - [notes](https://github.com/not-william/notes), notes about python, numpy, and pandas
-- [papers](https://github.com/not-william/notes), machine learning papers summaries (work in progress)
+- [papers](https://github.com/not-william/papers), machine learning papers summaries (work in progress)
 
 Other
 - [dotfiles](https://github.com/not-william/dotfiles)
