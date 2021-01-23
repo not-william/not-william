@@ -8,7 +8,7 @@ Machine Learning
 - [owlnet](https://github.com/not-william/owlnet), deep learning framework
 
 Writing
-- [notes](https://github.com/not-william/notes), notes about python, numpy, and pandas
+- [notes](https://github.com/not-william/notes), notes about python, numpy, pandas, and deep learning
 - [papers](https://github.com/not-william/papers), machine learning papers summaries (work in progress)
 
 Other
