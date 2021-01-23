@@ -1,4 +1,4 @@
-## A list of projects I have worked on: ⌨️
+## A list of projects I have worked on:
 
 Websites
 - [personal-api](https://github.com/not-william/personal-api), photo sharing API
