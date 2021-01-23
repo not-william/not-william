@@ -7,5 +7,9 @@ Websites
 Machine Learning
 - [owlnet](https://github.com/not-william/owlnet), deep learning framework
 
+Writing
+- [notes](https://github.com/not-william/notes), notes about Pandas
+- [papers](https://github.com/not-william/notes), machine learning papers summaries (work in progress)
+
 Other
 - [dotfiles](https://github.com/not-william/dotfiles)
