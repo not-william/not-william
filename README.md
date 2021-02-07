@@ -24,8 +24,6 @@ What does anybody who does any kind of excersise love? **Stats.** Gym goers keep
 
 **Enter the solution: deep learning!** An embedded system of AI-enabled cameras in the gym records excersises, including the number of reps and sets, the weight, the time taken for concentric and eccentric motions, the rest time in between sets, and the bar path. Excersises are linked to individuals using face identification. This gives vastly more information than was available before, and saves the gym goer having to record anything manually themselves. Furthermore, the system is **totally private**. All image processing happens offline on embedded devices.
 
-If you would like to give me funding, or hire me to your VC-backed Silicon Valley start up to work on this idea, my prefered contact method is Twitter.
-
 ### Data science for music
 
 How have your favourite bands' musical style changed over the years? Mood, tempo and metre, lyrical presence, and much more can be extracted and analysed on a song and album basis.
